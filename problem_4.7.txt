@@ -1,0 +1,6 @@
+
+Write a program that determines the number of digits in an
+integer
+
+Enter an integer: 374
+The number 374 has 3 digits
